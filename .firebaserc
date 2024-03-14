@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "proiect-react-final-fullstack",
+    "fullstack": "proiect-react-final-fullstack"
+  },
+  "targets": {},
+  "etags": {}
+}
