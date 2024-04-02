@@ -13,3 +13,8 @@ export const deleteBook = (bookID) => ({
 export const sortBooks = () => ({
     type: 'SORT_BOOKS',
 });
+
+export const setBookRating = (id, rating) => ({
+    type: 'SET_BOOK_RATING',
+    payload: { id, rating }
+});
